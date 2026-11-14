@@ -11,34 +11,16 @@ I enjoy turning ideas into practical, user-friendly digital experiences.
 
 # 💻 Tech Stack:
 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
----
-
-
-# 💻 Tech Stack:
-
-![React Router](https://img.shields.io/badge/React_Router-222222?style=for-the-badge&logo=reactrouter&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
-![React Native](https://img.shields.io/badge/React_Native-222222?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![React Router](https://img.shields.io/badge/React_Router-222222?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
+![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React Native](https://img.shields.io/badge/React_Native-222222?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-222222?style=for-the-badge&logo=expo&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-222222?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
-![Redux](https://img.shields.io/badge/Redux-222222?style=for-the-badge&logo=redux&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-222222?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Redux](https://img.shields.io/badge/Redux-222222?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
-![Firebase](https://img.shields.io/badge/Firebase-222222?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-222222?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
