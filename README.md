@@ -6,11 +6,11 @@ I enjoy turning ideas into practical, user-friendly digital experiences.
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/faisalkhanxdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/faisalkhanxdev)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/faishalkhan.786)
 [![X](https://img.shields.io/badge/X-222222?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/FaisalKhanxDev)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/faishalkhan957)
-[![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:faishalkhan957@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:faishalkhan957@gmail.com)
 
 
 # 💻 Tech Stack:
