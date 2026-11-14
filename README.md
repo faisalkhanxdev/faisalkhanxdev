@@ -4,9 +4,13 @@ I build modern web and mobile applications with a focus on clean code, thoughtfu
 
 I enjoy turning ideas into practical, user-friendly digital experiences.
 
-
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faishalkhan957) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faishalkhan.786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faisalkhanxdev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FaisalKhanxDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faishalkhan957@gmail.com) 
+
+[![Facebook](https://img.shields.io/badge/Facebook-222222?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/faishalkhan957)
+[![Instagram](https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/faishalkhan.786)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/faisalkhanxdev)
+[![X](https://img.shields.io/badge/X-222222?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/FaisalKhanxDev)
+[![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:faishalkhan957@gmail.com)
 
 
 # 💻 Tech Stack:
