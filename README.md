@@ -1,5 +1,8 @@
 # I'm Faisal Khan
-I’m a Front-End Developer focused on building clean, responsive, and performance-driven web interfaces. I care about readable code, real-world usability, and shipping features that actually solve problems—not just look good.
+
+I build modern web and mobile applications with a focus on clean code, thoughtful design, and performance. I'm a **Front-End Developer** working with **React Router, React, TypeScript, React Native, and Expo**, with growing experience in **Node.js, Express.js, and MongoDB**.
+
+I enjoy turning ideas into practical, user-friendly digital experiences.
 
 
 ## 🌐 Socials:
