@@ -1,5 +1,5 @@
 # I'm Faisal Khan
-I’m a Front-End Developer focused on building clean, responsive, and performance-driven web interfaces. I care about readable code, real-world usability, and shipping features that actually solve problems—not just look good.<br><br>🚀 I’m currently working on: Production-ready React projects, UI performance, and scalable component architecture<br><br>🤝 I’m looking to collaborate on: Front-end projects, startups, and open-source tools using React / Next.js<br><br>🧠 I’m looking for help with: Advanced system design patterns and backend integration best practices<br><br>🌱 I’m currently learning: Backend development (Node.js, Express, MongoDB) + Next.js<br><br>💬 Ask me about: React, JavaScript fundamentals, UI optimization, and clean front-end architecture<br><br>⚡ Fun fact: I obsess over small UI details most people never notice—but users feel them
+I’m a Front-End Developer focused on building clean, responsive, and performance-driven web interfaces. I care about readable code, real-world usability, and shipping features that actually solve problems—not just look good.
 
 
 ## 🌐 Socials:
