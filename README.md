@@ -2,7 +2,7 @@
 
 I build modern web and mobile applications with a focus on clean code, thoughtful design, and performance. I'm a **Front-End Developer** working with **React Router, React, TypeScript, React Native, and Expo**, with growing experience in **Node.js, Express.js, and MongoDB**.
 
-## 🌐 Socials:
+# Socials:
 
 [![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:faishalkhan957@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/faisalkhanxdev)
@@ -13,7 +13,7 @@ I build modern web and mobile applications with a focus on clean code, thoughtfu
 
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ![React Router](https://img.shields.io/badge/React_Router-222222?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
 ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=61DAFB)
