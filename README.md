@@ -8,15 +8,14 @@ I build modern web and mobile applications with a focus on clean code, thoughtfu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/faisalkhanxdev)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/faishalkhan.786)
 [![X](https://img.shields.io/badge/X-222222?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/FaisalKhanxDev)
-[![Facebook](https://img.shields.io/badge/Facebook-222222?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/faisalkhanxdev)
 
 
 
 
 # Tech Stack:
 
-![React Router](https://img.shields.io/badge/React_Router-222222?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
 ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-222222?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
 ![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React Native](https://img.shields.io/badge/React_Native-222222?style=for-the-badge&logo=react&logoColor=61DAFB)
